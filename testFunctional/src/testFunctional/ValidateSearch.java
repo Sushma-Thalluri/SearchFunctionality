@@ -25,6 +25,7 @@ public class ValidateSearch {
 
 			String searchInput[] = { "kelly", "teen", "jenna", "123swt", "/teen;", "prat", "les" };
 
+			
 			// Browser setup dynamic
 			ChromeOptions chromeOptions = new ChromeOptions();
 			chromeOptions.addArguments("--disable-notifications");
